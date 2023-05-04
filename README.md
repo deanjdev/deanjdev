@@ -17,8 +17,8 @@
 
 <!-- Github Stats -->
 <h4 align="center">Github Statistics:</h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deanjdev&repo=github-readme-stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanjdev&layout=compact"/>
 
 
 <!-- Languages -->
