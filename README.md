@@ -16,7 +16,7 @@
 
 On my profile, you'll find my personal projects and contributions to various open-source projects. Let's collaborate and create something amazing together!<p>
 
-
+<hr>
 <!-- Github Stats -->
 <h3 align="center">📈 Github Statistics:</h3>
 <div align="center">
