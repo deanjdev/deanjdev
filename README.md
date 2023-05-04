@@ -17,12 +17,14 @@
 
 <!-- Github Stats -->
 <h4 align="center">Github Statistics:</h4>
-<a href="https://github.com/deanjdev" align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deanjdev&theme=transparent"/>
-</a>
-<a href="https://github.com/deanjdev">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deanjdev&theme=transparent&utcOffset=2"/>
-</a>
+<div align="center">
+    <a href="https://github.com/deanjdev">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deanjdev&theme=transparent"/>
+    </a>
+    <a href="https://github.com/deanjdev">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deanjdev&theme=transparent&utcOffset=2"/>
+    </a>
+</div>
 
 <!-- Languages -->
 <div align="center">
