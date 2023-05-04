@@ -21,10 +21,7 @@ On my profile, you'll find my personal projects and contributions to various ope
 <h3 align="center">📈 Github Statistics:</h3>
 <div align="center">
     <a href="https://github.com/deanjdev">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=deanjdev&theme=transparent"/>
-    </a>
-    <a href="https://github.com/deanjdev">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deanjdev&theme=transparent&utcOffset=2"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&theme=transparent"/>
     </a>
 </div>
 
