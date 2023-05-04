@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBjMjg2ZmU5NzRjZTQ4ZjZmMTEwYmQ2NzQyZDUyNTRiMzllNWJmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/F04IIH8SwCB6iBa36I/giphy-downsized-large.gif" height="200px" width="auto">
 </div>
 
-<p align="center"><i>I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines. - Claude Shannon</i></p>
+<p align="center"><i>I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines. <br>- Claude Shannon</i></p>
 
 <hr>
 <!-- Social Links -->
