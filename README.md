@@ -7,8 +7,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/deanjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deanjdev" height="30" width="40" /></a>
-<a href="https://twitter.com/deandotdev" target="_blank"><img src="https://img.shields.io/twitter/follow/deandotdev?style=for-the-badge&logo=twitter&logoColor=white&label=@deandotdev
-" alt="deandotdev" /></a>
+<a href="https://twitter.com/deandotdev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge&logoWidth=20" alt="Javascript"></a>
 </p>
 
 <!-- Introduction Message -->
