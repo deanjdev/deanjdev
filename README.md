@@ -17,7 +17,7 @@
 
 <!-- Github Stats -->
 <h4 align="center">Github Statistics:</h4>
-<a href="https://github.com/deanjdev">
+<a href="https://github.com/deanjdev" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&theme=radical" />
 </a>
 <!-- <a href="https://github.com/deanjdev">
