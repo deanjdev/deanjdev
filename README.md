@@ -17,9 +17,12 @@
 
 <!-- Github Stats -->
 <h4 align="center">Github Statistics:</h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanjdev&layout=compact"/>
-
+<a href="https://github.com/deanjdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/deanjdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanjdev&layout=compact"/>
+</a>
 
 <!-- Languages -->
 <div align="center">
