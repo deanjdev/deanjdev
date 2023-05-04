@@ -24,7 +24,7 @@ On my profile, you'll find my personal projects and contributions to various ope
 <h3 align="center">📈 Github Statistics:</h3>
 <div align="center">
     <a href="https://github.com/deanjdev">
-        <img src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&count_private=true&number_format=long&include_all_commits=true&theme=transparent"/>
     </a>
 </div>
 
