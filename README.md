@@ -12,7 +12,9 @@
 </p>
 
 <!-- Introduction Message -->
-<h4 align="justify">👋 Hello! I'm Dean, a university student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. On my profile, you'll find my personal projects and contributions to various open-source projects. Let's collaborate and create something amazing together!</h5>
+<h4 align="justify" style="font-family:Arial">👋 Hello! I'm Dean, a university student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. 
+
+On my profile, you'll find my personal projects and contributions to various open-source projects. Let's collaborate and create something amazing together!</h5>
 
 
 <!-- Github Stats -->
