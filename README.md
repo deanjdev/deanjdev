@@ -1,7 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
-
 <!-- Machine Learning GIF -->
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBjMjg2ZmU5NzRjZTQ4ZjZmMTEwYmQ2NzQyZDUyNTRiMzllNWJmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/F04IIH8SwCB6iBa36I/giphy-downsized-large.gif" height="200px" width="auto">
@@ -16,11 +12,10 @@
 </p>
 
 <!-- Introduction Message -->
-<div style="font-family:'Lora';">
 <p align="justify">👋 Hello! I'm Dean, a university student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. 
 
 On my profile, you'll find my personal projects and contributions to various open-source projects. Let's collaborate and create something amazing together!<p>
-</div>
+
 
 <!-- Github Stats -->
 <h3 align="center">📈 Github Statistics:</h3>
