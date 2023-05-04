@@ -8,14 +8,17 @@
 <p align="center">
 <a href="https://dev.to/deanjdev" target="blank"><img src="https://img.shields.io/badge/-deanjdev-white?logo=dev.to&logoColor=black&style=for-the-badge&logoWidth=20" alt="DEV.to"></a>
 <a href="https://twitter.com/deandotdev" target="_blank"><img src="https://img.shields.io/badge/-deandotdev-blue?logo=twitter&logoColor=white&style=for-the-badge&logoWidth=20" alt="Twitter"></a>
-<img src="https://img.shields.io/badge/-cerberus2131-5865F2?logo=discord&logoColor=white&style=for-the-badge&logoWidth=20" alt="Discord">
+<img src="https://img.shields.io/badge/-cerberus#2131-5865F2?logo=discord&logoColor=white&style=for-the-badge&logoWidth=20" alt="Discord">
 </p>
 
 <!-- Introduction Message -->
 <h5 align="justify">Hello! I'm Dean, a CompSci student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. On my profile, you'll find my personal projects and contributions to various open-source projects. Let's collaborate and create something amazing together!</h5>
 
 
-
+<!-- Github Stats -->
+<h4 align="center">Github Statistics:</h4>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deanjdev&repo=github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 
 <!-- Languages -->
