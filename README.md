@@ -20,9 +20,9 @@
 <a href="https://github.com/deanjdev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/deanjdev">
+<!-- <a href="https://github.com/deanjdev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanjdev&theme=radical"/>
-</a>
+</a> -->
 <br>
 <!-- Languages -->
 <div align="center">
