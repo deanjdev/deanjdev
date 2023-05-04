@@ -27,6 +27,7 @@
 </div>
 
 <!-- Languages -->
+<h4 align="center">Learned Languages:</h4>
 <div align="center">
 <br>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20" alt="Javascript">
