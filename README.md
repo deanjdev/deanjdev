@@ -39,4 +39,4 @@ On my profile, you'll find my personal projects and contributions to various ope
 </div>
 
 <hr>
-<img src="snake.svg"/>
+<img src="assets/snake.svg"/>
