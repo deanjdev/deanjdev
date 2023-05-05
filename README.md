@@ -9,8 +9,8 @@
 <!-- Social Links -->
 <h3 align="center">📥 Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/deanjdev" target="blank"><img src="https://img.shields.io/badge/-deanjdev-white?logo=dev.to&logoColor=black&style=for-the-badge&logoWidth=20" alt="DEV.to"></a>
-<a href="https://twitter.com/deandotdev" target="_blank"><img src="https://img.shields.io/badge/-deandotdev-blue?logo=twitter&logoColor=white&style=for-the-badge&logoWidth=20" alt="Twitter"></a>
+<a href="https://dev.to/codebydean" target="blank"><img src="https://img.shields.io/badge/-codebydean-white?logo=dev.to&logoColor=black&style=for-the-badge&logoWidth=20" alt="DEV.to"></a>
+<a href="https://twitter.com/codebydean" target="_blank"><img src="https://img.shields.io/badge/-codebydean-blue?logo=twitter&logoColor=white&style=for-the-badge&logoWidth=20" alt="Twitter"></a>
 <img src="https://img.shields.io/badge/-cerberus2131-5865F2?logo=discord&logoColor=white&style=for-the-badge&logoWidth=20" alt="Discord">
 </p>
 
@@ -23,8 +23,8 @@ On my profile, you'll find my personal projects and contributions to various ope
 <!-- Github Stats -->
 <h3 align="center">📈 Github Statistics:</h3>
 <div align="center">
-    <a href="https://github.com/deanjdev">
-        <img src="https://github-readme-stats.vercel.app/api?username=deanjdev&show_icons=true&count_private=true&number_format=long&include_all_commits=true&theme=transparent"/>
+    <a href="https://github.com/codebydean">
+        <img src="https://github-readme-stats.vercel.app/api?username=codebydean&show_icons=true&count_private=true&number_format=long&include_all_commits=true&theme=transparent"/>
     </a>
 </div>
 
