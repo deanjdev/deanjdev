@@ -38,3 +38,5 @@ On my profile, you'll find my personal projects and contributions to various ope
     <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=for-the-badge&logoWidth=20" alt="Java">
 </div>
 
+<hr>
+<img src="snake.svg"/>
