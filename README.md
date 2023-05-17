@@ -39,4 +39,4 @@ On my profile, you'll find my personal projects and contributions to various ope
 </div>
 
 <hr>
-<img src="assets/snake.svg"/>
+![Snake animation](https://github.com/codebydean/codebydean/blob/output/github-contribution-grid-snake.svg)
