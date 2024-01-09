@@ -26,7 +26,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
         <a href="https://www.linkedin.com/in/codebydean" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20" alt="LinkedIN"> 
         </a>
-        <a href="">
+        <a href="https://dev.to/codebydean">
             <img src="https://img.shields.io/badge/-Dev.to-0A0A0A.svg?logo=dev.to&style=for-the-badge&logoWidth=20" alt="DEV.to"> 
         </a>
     </div>
