@@ -22,14 +22,14 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <p align="justify">
     If you wish to connect with me, feel free to check out my social below. I'm all about collaboration and creating something extraordinary together. Let's connect and bring our ideas to life!
     </p>
-    <div id="connect-with-me-pills" align="center">
+</div>
+<div align="center">
         <a href="https://www.linkedin.com/in/codebydean" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20" alt="LinkedIN"> 
         </a>
         <a href="https://dev.to/codebydean">
             <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge&logoWidth=20" alt="DEV.to"> 
         </a>
-    </div>
 </div>
 
 <!-- Github Stats -->
