@@ -20,11 +20,14 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <div>
     <h2 align="center">🌐 Connect with Me</h2>
     <p align="justify">
-    If you wish to connect with me, feel free to check out my profiles below. I'm all about collaboration and creating something extraordinary together. Let's connect and bring our ideas to life!
+    If you wish to connect with me, feel free to check out my social below. I'm all about collaboration and creating something extraordinary together. Let's connect and bring our ideas to life!
     </p>
     <div id="connect-with-me-pills" align="center">
-        <a href="https://www.linkedin.com/in/codebydean">
+        <a href="https://www.linkedin.com/in/codebydean" target="_blank">
             <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20" alt="LinkedIN"> 
+        </a>
+        <a href="">
+            <img src="https://img.shields.io/badge/-Dev.to-0A0A0A.svg?logo=dev.to&style=for-the-badge" alt="DEV.to"> 
         </a>
     </div>
 </div>
