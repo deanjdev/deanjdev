@@ -8,10 +8,10 @@
 
 <!-- Introduction Message -->
 <div>
-    <h2 align="center">🚀 About Me</h2>
-    <p align="justify">👋 Hello! I'm Dean, a university student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. 
+<h2 align="center">🚀 About Me</h2>
+<p align="justify">👋 Hello! I'm Dean, a university student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. 
 
-    Browse through my profile, and you'll discover a collection of my personal projects and contributions to diverse open-source repositories.
+Browse through my profile, and you'll discover a collection of my personal projects and contributions to diverse open-source repositories.
 </p>
 </div>
 
