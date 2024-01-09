@@ -5,7 +5,7 @@
 
 <p align="center"><i>I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines. <br>- Claude Shannon</i></p>
 
-<hr>
+
 <!-- Introduction Message -->
 <div>
 <h2 align="center">🚀 About Me</h2>
@@ -14,7 +14,7 @@
 On my profile, you'll find my personal projects and contributions to various open-source projects. Let's collaborate and create something amazing together!<p>
 </div>
 
-<hr>
+
 <!-- Github Stats -->
 <h3 align="center">📈 Github Statistics:</h3>
 <div align="center">
@@ -33,5 +33,5 @@ On my profile, you'll find my personal projects and contributions to various ope
     <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=for-the-badge&logoWidth=20" alt="Java">
 </div>
 
-<hr>
+
 <img src="https://github.com/codebydean/codebydean/blob/output/github-contribution-grid-snake.svg"/>
