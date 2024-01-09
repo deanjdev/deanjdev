@@ -23,7 +23,7 @@
     </p>
     <div id="connect-with-me-pills" align="center">
         <a href="https://www.linkedin.com/in/codebydean">
-            <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=blue&style=for-the-badge&logoWidth=20" alt="LinkedIN"> 
+            <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20" alt="LinkedIN"> 
         </a>
     </div>
 </div>
