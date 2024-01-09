@@ -6,18 +6,13 @@
 <p align="center"><i>I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines. <br>- Claude Shannon</i></p>
 
 <hr>
-<!-- Social Links -->
-<h3 align="center">📥 Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/codebydean" target="blank"><img src="https://img.shields.io/badge/-codebydean-white?logo=dev.to&logoColor=black&style=for-the-badge&logoWidth=20" alt="DEV.to"></a>
-<a href="https://twitter.com/codebydean" target="_blank"><img src="https://img.shields.io/badge/-codebydean-blue?logo=twitter&logoColor=white&style=for-the-badge&logoWidth=20" alt="Twitter"></a>
-<img src="https://img.shields.io/badge/-codebydean-5865F2?logo=discord&logoColor=white&style=for-the-badge&logoWidth=20" alt="Discord">
-</p>
-
 <!-- Introduction Message -->
+<div>
+<h2 align="center">🚀 About Me</h2>
 <p align="justify">👋 Hello! I'm Dean, a university student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. 
 
 On my profile, you'll find my personal projects and contributions to various open-source projects. Let's collaborate and create something amazing together!<p>
+</div>
 
 <hr>
 <!-- Github Stats -->
