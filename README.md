@@ -25,7 +25,8 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div>
 <div align="center">
         <a href="https://www.linkedin.com/in/codebydean" target="_blank"><img src="https://img.shields.io/badge/-codebydean-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-        <a href="https://dev.to/codebydean"><img src="https://img.shields.io/badge/-Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge&logoHeight=50" alt="DEV.to"></a>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/-Credly-orange?logo=credly&logoColor=white&style=for-the-badge"></a>
+        <a href="https://dev.to/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge&logoHeight=50" alt="DEV.to"></a>
 </div>
 
 <!-- Github Stats -->
