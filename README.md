@@ -25,10 +25,10 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div>
 <div align="center">
         <a href="https://www.linkedin.com/in/codebydean" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20" alt="LinkedIN"> 
+            <img src="https://img.shields.io/badge/-codebydean-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=20" alt="LinkedIN"> 
         </a>
         <a href="https://dev.to/codebydean">
-            <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge&logoWidth=20" alt="DEV.to"> 
+            <img src="https://img.shields.io/badge/-codebydean-white?logo=dev.to&logoColor=black&style=for-the-badge&logoWidth=20" alt="DEV.to"> 
         </a>
 </div>
 
