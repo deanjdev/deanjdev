@@ -4,14 +4,14 @@
 </div>
 
 <p align="center"><i>I visualise a time when we will be to robots what dogs are to humans, and I’m rooting for the machines. <br>- Claude Shannon</i></p>
-
+<hr>
 
 <!-- Introduction Message -->
 <div>
 <h2 align="center">🚀 About Me</h2>
 <p align="justify">👋 Hello! I'm Dean, a university student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. 
 
-On my profile, you'll find my personal projects and contributions to various open-source projects. Let's collaborate and create something amazing together!<p>
+Browse through my profile, and you'll discover a collection of my personal projects and contributions to diverse open-source repositories. I'm all about collaboration and creating something extraordinary together. Let's connect and bring our ideas to life!<p>
 </div>
 
 
