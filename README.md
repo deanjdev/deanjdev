@@ -29,6 +29,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
         <a href="https://www.credly.com/users/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Credly-orange?logo=credly&logoColor=white&style=for-the-badge"></a>
         <a href="https://www.kaggle.com/deanjoanidhi" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-white?logo=kaggle&style=for-the-badge" alt="Kaggle"></a>
         <a href="https://hashnode.com/@codebydean" target="_blank"><img src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge"></a>
+        <img src="https://img.shields.io/badge/codebydean-5865F2?style=for-the-badge&logo=discord&logoColor=white">
         <a href="https://dev.to/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge&logoWidth=30" alt="DEV.to"></a>
 </div>
 
@@ -40,14 +41,15 @@ Browse through my profile, and you'll discover a collection of my personal proje
     </a>
 </div>
 
-<!-- Languages -->
-<h3 align="center">📚 Experienced in:</h3>
+<!-- Programming Languages -->
+<h3 align="center">📚 Programming Languages:</h3>
 <div align="center">
 <br>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20" alt="Javascript">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20" alt="CSS3">
     <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=for-the-badge&logoWidth=20" alt="Java">
+    <img src="https://img.shields.io/badge/-Python-">
 </div>
 
 
