@@ -63,4 +63,4 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div>
 
 
-<img src="https://github.com/codebydean/codebydean/blob/output/github-contribution-grid-snake.svg"/>
+
