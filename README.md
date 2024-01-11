@@ -42,7 +42,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div> -->
 
 <!-- Programming Languages -->
-<h3 align="center">📚 Technology Stack:</h3>
+<h2 align="center">📚 Technology Stack:</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20" alt="Javascript">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20" alt="HTML5">
@@ -52,7 +52,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div>
 
 <!-- Design Software -->
-<h3 align="center">🖍 Design Software:</h3>
+<h2 align="center">🖍 Design Software:</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
