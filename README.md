@@ -56,6 +56,9 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <!-- Design Software -->
 <h2 align="center">🖍 Design Software:</h2>
+<p align="justify">
+    My design software toolkit includes various powerful applications, each serving specific aspects of the creative process. Here are the key tools I'm experienced in using for designing visually compelling projects.
+    </p>
 <div align="center">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
