@@ -44,7 +44,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Programming Languages -->
 <h2 align="center">📚 Technology Stack:</h2>
 <p align="justify">
-    My tech stack is diverse, incorporating various programming languages to optimize different aspects of development. This approach ensures flexibility and efficiency throughout the project." 
+    My tech stack is diverse, incorporating various programming languages to optimize different aspects of development. Below you can find the programming languages that I am experienced in." 
     </p>
 <div align="center">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20" alt="Javascript">
