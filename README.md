@@ -33,13 +33,13 @@ Browse through my profile, and you'll discover a collection of my personal proje
         <a href="https://dev.to/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge&logoWidth=30" alt="DEV.to"></a>
 </div>
 
-<!-- Github Stats -->
+<!-- Github Stats 
 <h3 align="center">📈 Github Statistics:</h3>
 <div align="center">
     <a href="https://github.com/codebydean">
         <img src="https://github-readme-stats.vercel.app/api?username=codebydean&show_icons=true&count_private=true&number_format=long&theme=transparent"/>
     </a>
-</div>
+</div> -->
 
 <!-- Programming Languages -->
 <h3 align="center">📚 Programming Languages:</h3>
