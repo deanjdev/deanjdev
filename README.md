@@ -3,8 +3,8 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBjMjg2ZmU5NzRjZTQ4ZjZmMTEwYmQ2NzQyZDUyNTRiMzllNWJmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/F04IIH8SwCB6iBa36I/giphy-downsized-large.gif" height="200px" width="auto">
 </div>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Future+Full+Stack+Software+Engineer;Self-taught+UI%2FUX+Designer;Passionate+with+AI+and+ML" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Future+Full+Stack+Software+Engineer;Self-taught+UI%2FUX+Designer;Passionate+with+AI+and+ML" alt="Typing SVG" /></a></p>
 <hr>
 
 <!-- Introduction Message -->
