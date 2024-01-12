@@ -69,6 +69,9 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Education -->
 <details open>
 <summary><h2>📚 Online Education</h2></summary>
+<p align="justify">
+    Throughout my years of programming and designing I managed to gain knowledge from various respected websites and of course from my university. Below you'll see a stack of the tools and sources I still use to this day to increase my knowledge in the field.
+</p>
 </details>
 
 
