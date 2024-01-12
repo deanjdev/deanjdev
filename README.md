@@ -66,5 +66,10 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Blender">
 </div>
 
+<!-- Education -->
+<details open>
+<summary><h2>Online Education</h2></summary>
+</details>
+
 
 
