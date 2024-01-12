@@ -77,8 +77,8 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Github Statistics -->
 <details open>
 <sumamry><h2>📈 Statistics</h2></summary>
-![TEST](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebydean&theme=nightowl)
+
 </details>
 
-
+![TEST](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebydean&theme=nightowl)
 
