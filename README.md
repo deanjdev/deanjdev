@@ -77,5 +77,6 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Github Statistics -->
 <sumamry><h2>📈 Statistics</h2></summary>
 
-![TEST](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebydean&theme=nightowl)
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebydean&theme=ayu_mirage)
+![Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebydean&theme=ayu_mirage)
 
