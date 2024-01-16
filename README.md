@@ -79,4 +79,5 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebydean&theme=ayu_mirage)
 ![Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebydean&theme=ayu_mirage)
+![General-Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebydean&theme=ayu_mirage)
 
