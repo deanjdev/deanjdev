@@ -84,7 +84,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <!-- Technology Tools -->
 <details open>
-<summary><h2></h2></summary>
+<summary><h2>🛠 Technology Tools</h2></summary>
 <p align="justify">
     In order to complete all my projects that I have been assigned or created myself, I have some tools that I frequently use and are my right-hand on a daily basis.
 </p>
