@@ -42,7 +42,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div> -->
 
 <!-- Programming Languages -->
-<h2 align="center">👨‍💻 Technology Stack:</h2>
+<h2 align="center">👨‍💻 Programming Languages:</h2>
 <p align="justify">
     My tech stack is diverse, incorporating various programming languages to optimize different aspects of development. Below you can find the programming languages that I am experienced in.
     </p>
