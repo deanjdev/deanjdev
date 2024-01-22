@@ -89,7 +89,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
     In order to complete all my projects that I have been assigned or created myself, I have some tools that I frequently use and are my right-hand on a daily basis.
 </p>
 <div align="center">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+    <img src="https://img.shields.io/badge/Android_Studio-039014?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime">
