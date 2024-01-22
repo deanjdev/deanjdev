@@ -33,36 +33,23 @@ Browse through my profile, and you'll discover a collection of my personal proje
         <a href="https://dev.to/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge&logoWidth=30" alt="DEV.to"></a>
 </div>
 
-<!-- Github Stats 
-<h3 align="center">📈 Github Statistics:</h3>
-<div align="center">
-    <a href="https://github.com/codebydean">
-        <img src="https://github-readme-stats.vercel.app/api?username=codebydean&show_icons=true&count_private=true&number_format=long&theme=transparent"/>
-    </a>
-</div> -->
 
 <!-- Programming Languages -->
 
 <details open>
-<summary><h2 align="center">👨‍💻 Programming Languages:</h2></summary>
-<p align="justify">
-    My tech stack is diverse, incorporating various programming languages to optimize different aspects of development. Below you can find the programming languages that I am experienced in.
-    </p>
-<div align="center">
+<summary><h2 align="center">👨‍💻 Technology Stack:</h2></summary>
+<div>  
+    <p>👨‍💻 Programming Languages:</p>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20" alt="Javascript">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20" alt="CSS3">
     <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=for-the-badge&logoWidth=20" alt="Java">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
 </div>
-</details>
 
 <!-- Design Software -->
 <details open>
 <summary><h2 align="center">🖍 Design Software:</h2></summary>
-<p align="justify">
-    My design software toolkit includes various powerful applications, each serving specific aspects of the creative process. Here are the key tools I'm experienced in using for designing visually compelling projects.
-    </p>
 <div align="center">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
@@ -74,9 +61,6 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Education -->
 <details open>
 <summary><h2>📚 Online Education</h2></summary>
-<p align="justify">
-    Throughout my years of programming and designing I managed to gain knowledge from various respected websites and of course from my university. Below you'll see a stack of the tools and sources I still use to this day to increase my knowledge in the field.
-</p>
 <div align="center">
     <img src="https://img.shields.io/badge/Codecademy-141D39?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy">
     <img src="https://img.shields.io/badge/Duolingo-039014?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
@@ -90,9 +74,6 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Technology Tools -->
 <details open>
 <summary><h2>🛠 Technology Tools</h2></summary>
-<p align="justify">
-    In order to complete all my projects that I have been assigned or created myself, I have some tools that I frequently use and are my right-hand on a daily basis.
-</p>
 <div align="center">
     <img src="https://img.shields.io/badge/Android_Studio-039014?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
