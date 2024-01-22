@@ -78,7 +78,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/Exercism-077C8C?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism">
     <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
     <img src="https://img.shields.io/badge/MDC_Web_Docs-black?style=for-the-badge&logo=mdcwebdocs&logoColor=white" alt="mdn">
-    <img src="">
+    <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools">
 </div>
 </details>
 
