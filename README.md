@@ -42,7 +42,8 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div> -->
 
 <!-- Programming Languages -->
-<h2 align="center">👨‍💻 Programming Languages:</h2>
+
+<details open><h2 align="center">👨‍💻 Programming Languages:</h2>
 <p align="justify">
     My tech stack is diverse, incorporating various programming languages to optimize different aspects of development. Below you can find the programming languages that I am experienced in.
     </p>
@@ -53,9 +54,10 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=for-the-badge&logoWidth=20" alt="Java">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
 </div>
+</details>
 
 <!-- Design Software -->
-<h2 align="center">🖍 Design Software:</h2>
+<details open><h2 align="center">🖍 Design Software:</h2>
 <p align="justify">
     My design software toolkit includes various powerful applications, each serving specific aspects of the creative process. Here are the key tools I'm experienced in using for designing visually compelling projects.
     </p>
@@ -65,6 +67,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Blender">
 </div>
+</details>
 
 <!-- Education -->
 <details open>
