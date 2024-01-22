@@ -73,7 +73,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
     Throughout my years of programming and designing I managed to gain knowledge from various respected websites and of course from my university. Below you'll see a stack of the tools and sources I still use to this day to increase my knowledge in the field.
 </p>
 <div align="center">
-    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347">
+    <img src="https://img.shields.io/badge/Codecademy-141D39?style=for-the-badge&logo=codecademy&logoColor=white">
 </div>
 </details>
 
