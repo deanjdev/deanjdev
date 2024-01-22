@@ -73,8 +73,28 @@ Browse through my profile, and you'll discover a collection of my personal proje
     Throughout my years of programming and designing I managed to gain knowledge from various respected websites and of course from my university. Below you'll see a stack of the tools and sources I still use to this day to increase my knowledge in the field.
 </p>
 <div align="center">
-    <img src="https://img.shields.io/badge/Codecademy-141D39?style=for-the-badge&logo=codecademy&logoColor=white">
+    <img src="https://img.shields.io/badge/Codecademy-141D39?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy">
+    <img src="https://img.shields.io/badge/Duolingo-039014?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
+    <img src="https://img.shields.io/badge/Exercism-077C8C?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism">
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
+    <img src="https://img.shields.io/badge/MDC_Web_Docs-black?style=for-the-badge&logo=mdcwebdocs&logoColor=white" alt="mdn">
+    <img src="">
 </div>
+</details>
+
+<!-- Technology Tools -->
+<details open>
+<summary><h2></h2></summary>
+<p align="justify">
+    In order to complete all my projects that I have been assigned or created myself, I have some tools that I frequently use and are my right-hand on a daily basis.
+</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 </details>
 
 <!-- Github Statistics -->
