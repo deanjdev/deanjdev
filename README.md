@@ -43,7 +43,8 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <!-- Programming Languages -->
 
-<details open><h2 align="center">👨‍💻 Programming Languages:</h2>
+<details open>
+<summary><h2 align="center">👨‍💻 Programming Languages:</h2></summary>
 <p align="justify">
     My tech stack is diverse, incorporating various programming languages to optimize different aspects of development. Below you can find the programming languages that I am experienced in.
     </p>
@@ -57,7 +58,8 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </details>
 
 <!-- Design Software -->
-<details open><h2 align="center">🖍 Design Software:</h2>
+<details open>
+<summary><h2 align="center">🖍 Design Software:</h2></summary>
 <p align="justify">
     My design software toolkit includes various powerful applications, each serving specific aspects of the creative process. Here are the key tools I'm experienced in using for designing visually compelling projects.
     </p>
