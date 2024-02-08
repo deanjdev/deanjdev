@@ -29,7 +29,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
         <a href="https://www.credly.com/users/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Credly-orange?logo=credly&logoColor=white&style=for-the-badge"></a>
         <a href="https://www.kaggle.com/deanjoanidhi" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-white?logo=kaggle&style=for-the-badge" alt="Kaggle"></a>
         <a href="https://hashnode.com/@codebydean" target="_blank"><img src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge"></a>
-        <img src="https://img.shields.io/badge/codebydean-5865F2?style=plastic&logo=discord&logoColor=white">
+        <img src="https://img.shields.io/badge/codebydean-5865F2?style=for-the-badge&logo=discord&logoColor=white">
         <a href="https://dev.to/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge&logoWidth=30" alt="DEV.to"></a>
 </div>
 
@@ -39,45 +39,45 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <summary><h2>Technology Stack, Tools & More</h2></summary>
 <h2>👨‍💻 Technology Stack:</h2>
 <div>  
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic&logoWidth=20" alt="Javascript">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic&logoWidth=20" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic&logoWidth=20" alt="CSS3">
-    <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=plastic&logoWidth=20" alt="Java">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue" alt="Python">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20" alt="Javascript">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20" alt="CSS3">
+    <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=for-the-badge&logoWidth=20" alt="Java">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
 </div>
 
 <!-- Design Software -->
 
 <h2>🖍 Design Software:</h2>
 <div>
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
-    <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=plastic&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" alt="Blender">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" alt="Blender">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
+    <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Blender">
 </div>
 
 <!-- Education -->
 
 <h2>📚 Online Education</h2>
 <div>
-    <img src="https://img.shields.io/badge/Codecademy-141D39?style=plastic&logo=codecademy&logoColor=white" alt="Codecademy">
-    <img src="https://img.shields.io/badge/Duolingo-039014?style=plastic&logo=Duolingo&logoColor=white" alt="Duolingo">
-    <img src="https://img.shields.io/badge/Exercism-077C8C?style=plastic&logo=exercism&logoColor=white" alt="exercism">
-    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=plastic&logo=freecodecamp&logoColor=white" alt="freecodecamp">
-    <img src="https://img.shields.io/badge/MDC_Web_Docs-black?style=plastic&logo=mdcwebdocs&logoColor=white" alt="mdn">
-    <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=plastic&logo=W3Schools&logoColor=white" alt="W3Schools">
+    <img src="https://img.shields.io/badge/Codecademy-141D39?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy">
+    <img src="https://img.shields.io/badge/Duolingo-039014?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
+    <img src="https://img.shields.io/badge/Exercism-077C8C?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism">
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
+    <img src="https://img.shields.io/badge/MDC_Web_Docs-black?style=for-the-badge&logo=mdcwebdocs&logoColor=white" alt="mdn">
+    <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools">
 </div>
 
 
 <!-- Technology Tools -->
 <h2>🛠 Technology Tools</h2>
 <div>
-    <img src="https://img.shields.io/badge/Android_Studio-039014?style=plastic&logo=android-studio&logoColor=white" alt="Android Studio">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white" alt="IntelliJ">
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white" alt="Pycharm">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=plastic&logo=sublime-text&logoColor=important" alt="Sublime">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" alt="Visual Studio">
+    <img src="https://img.shields.io/badge/Android_Studio-039014?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm">
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 </details>
 
 <!-- Github Statistics -->
