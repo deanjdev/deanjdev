@@ -37,9 +37,8 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Programming Languages -->
 <details open>
 <summary><h2>Technology Stack, Tools & More</h2></summary>
-<h2 align="center">👨‍💻 Technology Stack:</h2>
+<h2>👨‍💻 Technology Stack:</h2>
 <div>  
-    <p>👨‍💻 Programming Languages:</p>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=20" alt="Javascript">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20" alt="CSS3">
@@ -49,7 +48,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <!-- Design Software -->
 
-<h2 align="center">🖍 Design Software:</h2>
+<h2>🖍 Design Software:</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
@@ -60,7 +59,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Education -->
 
 <h2>📚 Online Education</h2>
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/Codecademy-141D39?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy">
     <img src="https://img.shields.io/badge/Duolingo-039014?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
     <img src="https://img.shields.io/badge/Exercism-077C8C?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism">
