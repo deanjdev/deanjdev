@@ -49,7 +49,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <!-- Design Software -->
 <div>
-<p>🖍 Design Software</p>
+<p style="fontSize:10px">🖍 Design Software</p>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender">
