@@ -28,7 +28,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div>
 <div align="center">
         <a href="https://www.linkedin.com/in/codebydean" target="_blank"><img src="https://github.com/codebydean/Ars-Moderna/blob/master/png/dark/round/linkedin.png" alt="LinkedIn"></a>
-        <a href="https://www.credly.com/users/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Credly-orange?logo=credly&logoColor=white&style=for-the-badge"></a>
+        <a href="https://www.credly.com/users/codebydean" target="_blank"><img src="https://github.com/codebydean/Ars-Moderna/blob/master/png/dark/round/credly.png"></a>
         <a href="https://www.kaggle.com/deanjoanidhi" target="_blank"></a>
         <a href="https://hashnode.com/@codebydean" target="_blank"><img src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge"></a>
         <a href="https://dev.to/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge&logoWidth=30" alt="DEV.to"></a>
