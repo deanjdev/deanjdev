@@ -60,12 +60,12 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <h2>📚 Online Education</h2>
 <div>
-    <img src="https://img.shields.io/badge/Codecademy-141D39?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy">
-    <img src="https://img.shields.io/badge/Duolingo-039014?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
-    <img src="https://img.shields.io/badge/Exercism-077C8C?style=for-the-badge&logo=exercism&logoColor=white" alt="exercism">
-    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp">
-    <img src="https://img.shields.io/badge/MDC_Web_Docs-black?style=for-the-badge&logo=mdcwebdocs&logoColor=white" alt="mdn">
-    <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools">
+    <img src="https://img.shields.io/badge/Codecademy-141D39?style=plastic&logo=codecademy&logoColor=white" alt="Codecademy">
+    <img src="https://img.shields.io/badge/Duolingo-039014?style=plastic&logo=Duolingo&logoColor=white" alt="Duolingo">
+    <img src="https://img.shields.io/badge/Exercism-077C8C?style=plastic&logo=exercism&logoColor=white" alt="exercism">
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=plastic&logo=freecodecamp&logoColor=white" alt="freecodecamp">
+    <img src="https://img.shields.io/badge/MDC_Web_Docs-black?style=plastic&logo=mdcwebdocs&logoColor=white" alt="mdn">
+    <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=plastic&logo=W3Schools&logoColor=white" alt="W3Schools">
 </div>
 
 
