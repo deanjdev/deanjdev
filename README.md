@@ -1,3 +1,10 @@
+<style>
+.class {
+    font-size: 10px;
+    font-weight: 600;
+}
+</style>
+
 <!-- Machine Learning GIF -->
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBjMjg2ZmU5NzRjZTQ4ZjZmMTEwYmQ2NzQyZDUyNTRiMzllNWJmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/F04IIH8SwCB6iBa36I/giphy-downsized-large.gif" height="200px" width="auto">
@@ -49,10 +56,10 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <!-- Design Software -->
 <div>
-<p style="font-size:10px">🖍 Design Software</p>
+<p class="para">🖍 Design Software</p>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
-    <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
+    <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Blender">
 </div>
 <br>
@@ -75,7 +82,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/Android_Studio-039014?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" alt="Pycharm">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" alt="Sublime">
+    <img src="https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" alt="Sublime">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 </details>
