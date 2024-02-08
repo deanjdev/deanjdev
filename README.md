@@ -37,29 +37,29 @@ Browse through my profile, and you'll discover a collection of my personal proje
 <!-- Programming Languages -->
 <details open>
 <summary><h2>Technology Stack, Tools & More</h2></summary>
-<p>👨‍💻 Technology Stack</p>
 <div>  
+<p>👨‍💻 Technology Stack</p>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat&logoWidth=20" alt="Javascript">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat&logoWidth=20" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat&logoWidth=20" alt="CSS3">
     <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=flat&logoWidth=20" alt="Java">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="Python">
 </div>
+<br>
 
 <!-- Design Software -->
-
-<p>🖍 Design Software</p>
 <div>
+<p>🖍 Design Software</p>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Blender">
 </div>
+<br>
 
 <!-- Education -->
-
-<p>📚 Online Education</p>
 <div>
+<p>📚 Online Education</p>
     <img src="https://img.shields.io/badge/Codecademy-141D39?style=flat&logo=codecademy&logoColor=white" alt="Codecademy">
     <img src="https://img.shields.io/badge/Duolingo-039014?style=flat&logo=Duolingo&logoColor=white" alt="Duolingo">
     <img src="https://img.shields.io/badge/Exercism-077C8C?style=flat&logo=exercism&logoColor=white" alt="exercism">
@@ -67,11 +67,11 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/MDC_Web_Docs-black?style=flat&logo=mdcwebdocs&logoColor=white" alt="mdn">
     <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=flat&logo=W3Schools&logoColor=white" alt="W3Schools">
 </div>
-
+<br>
 
 <!-- Technology Tools -->
-<p>🛠 Technology Tools</p>
 <div>
+<p>🛠 Technology Tools</p>
     <img src="https://img.shields.io/badge/Android_Studio-039014?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" alt="Pycharm">
@@ -79,7 +79,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 </details>
-
+<br>
 <!-- Github Statistics -->
 <h2>📈 Statistics</h2>
 
