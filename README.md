@@ -1,10 +1,3 @@
-<style>
-.class {
-    font-size: 10px;
-    font-weight: 600;
-}
-</style>
-
 <!-- Machine Learning GIF -->
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBjMjg2ZmU5NzRjZTQ4ZjZmMTEwYmQ2NzQyZDUyNTRiMzllNWJmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/F04IIH8SwCB6iBa36I/giphy-downsized-large.gif" height="200px" width="auto">
@@ -56,7 +49,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <!-- Design Software -->
 <div>
-<p class="para">🖍 Design Software</p>
+<p>🖍 Design Software</p>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
     <img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
     <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender">
@@ -66,7 +59,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 <!-- Education -->
 <div>
-<p>📚 Online Education</p>
+<p style="font-size:14px;">📚 Online Education</p>
     <img src="https://img.shields.io/badge/Codecademy-141D39?style=flat&logo=codecademy&logoColor=white" alt="Codecademy">
     <img src="https://img.shields.io/badge/Duolingo-039014?style=flat&logo=Duolingo&logoColor=white" alt="Duolingo">
     <img src="https://img.shields.io/badge/Exercism-077C8C?style=flat&logo=exercism&logoColor=white" alt="exercism">
