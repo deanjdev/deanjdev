@@ -44,7 +44,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat&logoWidth=20" alt="CSS3">
     <img src="https://img.shields.io/badge/-Java-f89820?logo=java&logoColor=white&style=flat&logoWidth=20" alt="Java">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="Python">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB&logoWidth=20" alt="React">
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
 
 </div>
