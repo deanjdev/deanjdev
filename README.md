@@ -46,6 +46,10 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" alt="Python">
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB&logoWidth=20" alt="React">
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 
 </div>
 <br>
