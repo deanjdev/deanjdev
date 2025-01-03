@@ -47,9 +47,18 @@ Browse through my profile, and you'll discover a collection of my personal proje
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB&logoWidth=20" alt="React">
     <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white&logoWidth=20">
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="ExpressJS">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/PHP-474A8A.svg?style=flat&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="tailwind">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="pandas">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="pytorch">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="docker">
+
+
     
 
 </div>
@@ -65,6 +74,16 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </div>
 <br>
 
+<!-- Project Management -->
+<div>
+<p>📝 Project Management </p>
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="JIRA">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white" alt="confluence">
+
+
+</div>
+<br>
 <!-- Education -->
 <div>
 <p style="font-size:14px;">📚 Online Education</p>
