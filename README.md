@@ -1,4 +1,8 @@
 <!-- Machine Learning GIF -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+
 <div id="header" align="center">
     <img src="assets/github-header-image.png">
 </div>
@@ -8,7 +12,7 @@
 <hr>
 
 <!-- Introduction Message -->
-<div>
+<div style="font-family:Quicksand">
 <h2 align="center">🚀 About Me</h2>
 <p align="justify">👋 Hello! I'm Dean, a university student with a passion for developing innovative solutions to complex problems, particularly in the field of machine learning. I enjoy exploring the latest programming languages and technologies to create software applications that make a real impact in people's lives. 
 
@@ -18,13 +22,13 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 
 <!-- Connect with Me -->
-<div>
+<div style="font-family:Quicksand">
     <h2 align="center">🌐 Connect with Me</h2>
     <p align="justify">
     If you wish to connect with me, feel free to check out my social below. I'm all about collaboration and creating something extraordinary together. Let's connect and bring our ideas to life!
     </p>
 </div>
-<div align="center">
+<div align="center" style="font-family:Quicksand">
          <a href="https://www.linkedin.com/in/codebydean" target="_blank"><img src="https://img.shields.io/badge/-codebydean-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
         <a href="https://www.credly.com/users/codebydean" target="_blank"><img src="https://img.shields.io/badge/-Credly-orange?logo=credly&logoColor=white&style=for-the-badge"></a>
         <a href="https://www.kaggle.com/deanjoanidhi" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-white?logo=kaggle&style=for-the-badge" alt="Kaggle"></a>
@@ -35,7 +39,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 
 
 <!-- Programming Languages -->
-<details open>
+<details open style="font-family:Quicksand">
 <summary><h2>Technology Stack, Tools & More</h2></summary>
 <div>  
 <p>👨‍💻 Technology Stack</p>
@@ -109,7 +113,7 @@ Browse through my profile, and you'll discover a collection of my personal proje
 </details>
 <br>
 <!-- Github Statistics -->
-<h2>📈 Statistics</h2>
+<h2 style="font-family:Quicksand">📈 Statistics</h2>
 
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebydean&theme=blue_green)
 ![Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebydean&theme=blue_green)
